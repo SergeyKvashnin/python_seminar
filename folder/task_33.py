@@ -24,3 +24,4 @@ create_list(lst)
 create_list(lst_1)
 print(polynominal(lst))
 print(polynominal(lst_1))
+
